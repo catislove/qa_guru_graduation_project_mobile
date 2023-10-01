@@ -1,1 +1,1 @@
-# qa_guru_graduation_project_mobile
+# qa_guru_python_6_24
